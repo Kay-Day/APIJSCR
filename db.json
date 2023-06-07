@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "description": "Angular is a platform that makes it easy to build applications with the web."
+    },
+    {
+      "name": "Java",
+      "description": "Java is the best",
+      "id": 6
+    },
+    {
+      "name": "Java Spring",
+      "description": "Good job",
+      "id": "3"
+    },
+    {
+      "name": "Teacher",
+      "description": "Nghia sensei",
+      "id": 9
+    },
+    {
+      "name": "Tokyo",
+      "description": "Nghia day",
+      "id": 10
+    },
+    {
+      "name": "Osaka",
+      "description": "ちさ",
+      "id": 11
+    }
+  ]
+}
